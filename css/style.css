@@ -188,13 +188,13 @@ p {
     font-size: 36px;
 }
 
-.footer {
+
+footer h3 {              /* pointed to footer element not class/consolidated element */
     padding: 30px;
     clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+    font-size: 20px;  
     text-align: center;
-}
+  }
 
-.footer h2 {
-    font-size: 20px;
-}
