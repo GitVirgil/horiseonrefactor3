@@ -1,6 +1,5 @@
 
 # Horiseone Website "Effectiveness" Re-Factoring Project.
-
 Version: 1.0
 
 This is a refactor or effectiveness improvement project for **Horiseone.** The refactor has improved both the HTML and CSS coding semantically and via the consolidation of repetitive coding. This will render the site/code more stable, easier to work with and understand for future developer task.
@@ -28,7 +27,6 @@ Code-style/Standard
 
 ---
 # Code Example:
-
 The below code is a typical example code consolidation employed on this project.
 **CSS** (Each image link originally occupied several lines)
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
@@ -41,7 +39,6 @@ The below code is a typical example code consolidation employed on this project.
 
   ---
   # License:
-
   The MIT License (MIT)
 
 Copyright (c) 2020 Virgil Pearson
