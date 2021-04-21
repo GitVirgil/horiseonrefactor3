@@ -95,6 +95,12 @@ p {
     background-color: #2589bd;
 }
 
+/* Consolidated benefit Classes */
+.benefit-lead, .benefit-brand, .benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+/*
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -109,7 +115,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
